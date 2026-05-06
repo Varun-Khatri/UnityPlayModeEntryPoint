@@ -20,9 +20,9 @@
 6. Click **Add**.
 
 ## 📖 How to Use
-1. Go to **Window > General > Play Mode Start Scene**.
+1. Go to **Tools > VK > Play Mode Scene Setter**.
 2. Check the **Enable Forced Start Scene** box.
-3. Drag your desired start scene (e.g., `MainMenu.unity`) into the **Target Scene** slot.
+3. Drag your desired start scene (e.g., `BootLoader.unity`) into the **Target Scene** slot.
 4. Hit **Play**! Unity will now automatically load that scene first, no matter what you are currently working on.
 
 ## ⚙️ Technical Details
