@@ -16,7 +16,7 @@
 3. Click the **+** (plus) icon in the status bar.
 4. Select **Add package from git URL...**.
 5. Paste the following URL:
-   `https://github.com`
+   `https://github.com/Varun-Khatri/UnityPlayModeEntryPoint.git`
 6. Click **Add**.
 
 ## 📖 How to Use
