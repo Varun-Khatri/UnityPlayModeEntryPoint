@@ -1,0 +1,11 @@
+{
+  "name": "com.vk.unityplaymodeentrypoint",
+  "version": "1.0.0",
+  "displayName": "Unity Play Mode Entry Point",
+  "description": "A utility to force Unity to start from a specific scene (e.g., Main Menu) when hitting Play.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Varun Khatri"
+  },
+  "category": "Editor Extensions"
+}
